@@ -7,7 +7,9 @@ Data Collection is the first step to Data Analysis
 Internal Data Collection
 - SQL (Database Query)
 - Flat Files (CSV, Excel)
+- Libraries: DBeaver (SQL App)
 
 External Data Collection
 - APIs
 - Web Scraping
+- Libraries: BeautifulSoup
